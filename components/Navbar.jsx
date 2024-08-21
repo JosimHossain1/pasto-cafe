@@ -50,7 +50,7 @@ const components = [
 
 const Navbar = () => {
   return (
-    <div className='flex justify-between items-center px-20 py-2 shadow'>
+    <div className='flex justify-between items-center px-20 py-2 shadow'  >
       {/* Logo Side */}
       <div>
         <Link href='/'>

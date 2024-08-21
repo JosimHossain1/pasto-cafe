@@ -1,4 +1,13 @@
+import Crafted from '@/components/Crafted';
+import HeroArea from '@/components/HeroArea';
+import MenuCategory from '@/components/MenuCategory';
 
 export default function Home() {
-  return <>Hello Pasto</>;
+  return (
+    <>
+      <HeroArea />
+      <MenuCategory />
+      <Crafted />
+    </>
+  );
 }

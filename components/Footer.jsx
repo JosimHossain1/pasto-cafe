@@ -56,7 +56,7 @@ const Footer = () => {
             </li>
             <li className='flex items-center space-x-2'>
               {/* <FaEnvelope /> */}
-              <span>contact.door2door@gmail.com</span>
+              <span>pasto-cafe@gmail.com</span>
             </li>
             <li className='items-center flex space-x-2'>
               {/* <FaMapMarkerAlt /> */}
